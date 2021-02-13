@@ -51,8 +51,8 @@ export default function Header() {
                         </Navbar.Collapse>
 
                         <Nav className="" style={{ flexDirection: "row" }}>
-                            <Nav.Link style={{ display: "flex", alignItems: "center" }}>  <Search /></Nav.Link>
-                            <Nav.Link style={{ display: "flex", alignItems: "center" }} onClick={() => setOpenLoginModel(true)}>  <User /></Nav.Link>
+                            {/* <Nav.Link style={{ display: "flex", alignItems: "center" }}>  <Search /></Nav.Link>
+                            <Nav.Link style={{ display: "flex", alignItems: "center" }} onClick={() => setOpenLoginModel(true)}>  <User /></Nav.Link> */}
                             <Nav.Link>  <Button className="cart-button"><ShoppingBag size="20" color="#fff" className="cart-icon" /></Button></Nav.Link>
                         </Nav>
                     </Navbar>

@@ -5,6 +5,7 @@ import Shop from '../components/Shop'
 import PlanAndPackages from '../components/PlanAndPackages'
 import { Element } from 'react-scroll'
 import Process from '../components/Process'
+import Textimonial from '../components/Textimonial'
 
 
 export default function Home() {
@@ -14,7 +15,8 @@ export default function Home() {
             <TopBrand />
             <Process />
             <Shop />
-            <Element name="plansandpackage"><PlanAndPackages /></Element>
+            <PlanAndPackages />
+            <Textimonial />
         </div>
     )
 }
