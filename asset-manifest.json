@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nutrition/static/css/main.44ce651f.chunk.css",
-    "main.js": "/nutrition/static/js/main.c9f160ac.chunk.js",
-    "main.js.map": "/nutrition/static/js/main.c9f160ac.chunk.js.map",
+    "main.css": "/nutrition/static/css/main.446321d9.chunk.css",
+    "main.js": "/nutrition/static/js/main.f826acf7.chunk.js",
+    "main.js.map": "/nutrition/static/js/main.f826acf7.chunk.js.map",
     "runtime-main.js": "/nutrition/static/js/runtime-main.59778f7b.js",
     "runtime-main.js.map": "/nutrition/static/js/runtime-main.59778f7b.js.map",
     "static/css/2.150d169a.chunk.css": "/nutrition/static/css/2.150d169a.chunk.css",
-    "static/js/2.9f2a8a88.chunk.js": "/nutrition/static/js/2.9f2a8a88.chunk.js",
-    "static/js/2.9f2a8a88.chunk.js.map": "/nutrition/static/js/2.9f2a8a88.chunk.js.map",
+    "static/js/2.31c70277.chunk.js": "/nutrition/static/js/2.31c70277.chunk.js",
+    "static/js/2.31c70277.chunk.js.map": "/nutrition/static/js/2.31c70277.chunk.js.map",
     "index.html": "/nutrition/index.html",
     "static/css/2.150d169a.chunk.css.map": "/nutrition/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.44ce651f.chunk.css.map": "/nutrition/static/css/main.44ce651f.chunk.css.map",
-    "static/js/2.9f2a8a88.chunk.js.LICENSE.txt": "/nutrition/static/js/2.9f2a8a88.chunk.js.LICENSE.txt"
+    "static/css/main.446321d9.chunk.css.map": "/nutrition/static/css/main.446321d9.chunk.css.map",
+    "static/js/2.31c70277.chunk.js.LICENSE.txt": "/nutrition/static/js/2.31c70277.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59778f7b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.9f2a8a88.chunk.js",
-    "static/css/main.44ce651f.chunk.css",
-    "static/js/main.c9f160ac.chunk.js"
+    "static/js/2.31c70277.chunk.js",
+    "static/css/main.446321d9.chunk.css",
+    "static/js/main.f826acf7.chunk.js"
   ]
 }
