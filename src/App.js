@@ -12,7 +12,7 @@ import About from "./pages/About";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Header />
       <Switch>
         <Route exact path="/" component={Home} />
