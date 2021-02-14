@@ -36,7 +36,7 @@ background:#0b7d0b
 .navbar-brand{
   font-family: cursive;
   font-style: italic;
-  color: green !important;
+  color: #fff !important;
   font-size: 2.1rem !important;
 }
 .nav-link{
@@ -64,7 +64,7 @@ background:#0b7d0b
   position: relative;
 }
 .header-fixed .navbar-nav .nav-link{
-  color: #ccc !important;
+  color: #fff !important;
 }
 
 .navigator .nav-active{
