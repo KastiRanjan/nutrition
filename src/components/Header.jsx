@@ -43,7 +43,7 @@ export default function Header() {
                                     Plans & Packages
                                         </Link>
 
-                                {/* <Link to="/product" className="nav-link">Products</Link> */}
+                                <Link to="/product" className="nav-link">Products</Link>
                                 <Link to="/about" className="nav-link">About Us</Link>
                                 <Link to="/story" className="nav-link">Success Story</Link>
                                 <Link to="/Contact" className="nav-link">Contact</Link>
